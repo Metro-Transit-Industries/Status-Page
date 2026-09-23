@@ -9,6 +9,8 @@ sites:
     url: https://metrotransitindustries.com/hub
   - name: MTI Admin
     url: https://metrotransitindustries.com/admin
+  - name: MTI Ticketing System
+    url: https://metrotransitindustries.com/api/ticketing
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
